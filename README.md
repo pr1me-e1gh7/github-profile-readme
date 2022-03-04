@@ -1,6 +1,4 @@
 # Hello there, I'm David 👋
-### <img src="https://i.imgur.com/YuWrIZa.gif"/>
-
 ## About Me
 * I'm a ''Full-Stack'' web developer.
 * Currently residing in Orlando, FL; moving to Ohio December 2022.
@@ -8,8 +6,8 @@
 
 ## Training
 * Earned certificate of completion from UCF Coding Bootcamp (March 2022).
-* Excellent proficiency in CSS, HTML, JavaScript, SQL, Web API’s.
-* I've received training in MERN (MongoDB, Express, React, Node), MVC, NoSQL, Object-Oriented Programming (OOP), Object-Relational Mapping (ORM), and PWA.
+* Excellent proficiency in CSS, HTML, JavaScript, NoSQL, SQL, Web API’s.
+* I've also received training in MERN, MVC, OOP, ORM, and PWA.
 * I'm currently studying Amazon Web Services, Java, and Python.
 * Typing speed of 65+ WPM at Expert level; <a href="https://bit.ly/347gwJF">my results here</a> from the Indeed test.
 
@@ -21,3 +19,5 @@
 * My Email: <a href="mailto:dcaro1996@yahoo.com">dcaro1996@yahoo.com</a>
 * My LinkedIn: <a href="https://bit.ly/3pZlT5B">David Anthony Caro</a>
 * My Resume: <a href="https://bit.ly/3KiHDRm">Click here</a>
+
+### <img src="https://i.imgur.com/YuWrIZa.gif"/>
