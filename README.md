@@ -8,7 +8,7 @@
 * Earned certificate of completion from UCF Coding Bootcamp (March 2022).
 * Excellent proficiency in CSS, HTML, JavaScript, NoSQL, SQL, Web API’s, and React.
 * I've also received training in MERN, MVC, OOP, ORM, and PWA.
-* I'm currently studying Amazon Web Services, Java, and Python.
+* I'm currently studying Amazon Web Services, C#, Java, and Python.
 * Typing speed of 65+ WPM at Expert level; <a href="https://bit.ly/347gwJF">my results here</a> from the Indeed test.
 
 ## Fun Facts
