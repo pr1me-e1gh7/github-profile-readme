@@ -1,7 +1,7 @@
 # Hello there, I'm David 👋
 ## About Me
 * I'm a Full-Stack web developer.
-* Currently residing in Orlando, FL; moving to Ohio December 2022.
+* Currently residing in Orlando, FL.
 * I'm focusing on a building a career in Front-End development.
 
 ## Training
