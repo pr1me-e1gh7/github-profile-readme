@@ -7,9 +7,8 @@ programming languages that'll assist me in any future web development jobs.
 
 ## Training
 * Earned a certificate in Full-Stack Web Development from UCF Coding Bootcamp (April 2022).
-* Excellent proficiency in CSS, HTML, JavaScript, MERN stack, and Web API’s.
-* I've also received training in MVC, NoSQL, OOP, ORM, PWA, and SQL.
-* I'm currently studying Amazon Web Services, C#, Java, and Python.
+* Excellent proficiency in CSS, HTML, MERN stack, and Web API’s.
+* I've also received training in JavaScript, MVC, NoSQL, OOP, ORM, PWA, and SQL.
 * Typing speed of 65+ WPM at Expert level; <a href="https://bit.ly/347gwJF">my results here</a> from the Indeed test.
 
 ## My Motivation
