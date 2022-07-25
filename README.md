@@ -28,6 +28,6 @@ or sooner depending on your the opportunities that present themselves.
 ## Contact Me
 * My Email: <a href="mailto:dcaro1996@yahoo.com">dcaro1996@yahoo.com</a>
 * My LinkedIn: <a href="https://bit.ly/3pZlT5B">David Anthony Caro</a>
-* My Resume: <a href="https://bit.ly/3KiHDRm">Click here</a>
+* My Resume: <a href="https://bit.ly/3cAB9BU">Click here</a>
 
 ### <img src="https://i.imgur.com/YuWrIZa.gif"/>
