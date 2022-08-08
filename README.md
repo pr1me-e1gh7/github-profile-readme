@@ -25,7 +25,7 @@ or sooner depending on your the opportunities that present themselves.
 * I enjoy spending my free time from coding emulating retro games and watching Always Sunny In Philadelphia.
 ## 🛠 Skills
 <!-- VS Code -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />()
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <!-- Wordpress -->
 <img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 <!-- HTML5 -->
