@@ -32,6 +32,7 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <!-- Sass -->
 <img align="left" alt="Sass" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="padding-right:10px;" />
+
 ## Training
 * Earned a certificate in Full-Stack Web Development from UCF Coding Bootcamp (April 2022).
 * Typing speed of 65+ WPM at Expert level; <a href="https://bit.ly/347gwJF">my results here</a> from the Indeed test.## Fun Facts
