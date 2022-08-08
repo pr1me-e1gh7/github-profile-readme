@@ -2,7 +2,7 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://davidcaro.dev/)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/davidanthonycaro/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/pr1mee1gh7/)
-[![resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white?labelColor=abcdef)](https://davidcaro.dev/)
+[![resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white?labelColor=abcdef)](https://bit.ly/3cAB9BU)
 ## 🚀 About Me
 Full-stack web developer using a background in amateur graphic design to focus on front-end development.
 Born and raised in Orlando, FL, I've recently graduated from UCF's Coding Bootcamp course, and I'm more than prepared to assist
@@ -25,7 +25,7 @@ or sooner depending on your the opportunities that present themselves.
 * I enjoy spending my free time from coding emulating retro games and watching Always Sunny In Philadelphia.
 ## 🛠 Skills
 <!-- VS Code -->
-<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />()
 <!-- Wordpress -->
 <img align="left" alt="Wordpress" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" style="padding-right:10px;" />
 <!-- HTML5 -->
