@@ -5,9 +5,9 @@
 [![resume](https://img.shields.io/badge/my_resume-000?style=for-the-badge&logo=ko-fi&logoColor=white?labelColor=abcdef)](https://bit.ly/3cAB9BU)
 ## Training
 * Earned a certificate in Full-Stack Web Development from UCF Coding Bootcamp (April 2022).
-* Typing speed of 65+ WPM at Expert level; <a href="https://bit.ly/347gwJF">my results here</a> from the Indeed test.## Fun Facts
+* Typing speed of 65+ WPM at Expert level; <a href="https://bit.ly/347gwJF">my results here</a> from the Indeed test.
 * I'm also certified in AutoCAD certified (2014) and Microsoft Office Suites Certified (2010).
-* I enjoy spending my free time from coding emulating retro games and watching Always Sunny In Philadelphia.
+* I enjoy spending my free time from coding gaming or watching Always Sunny In Philadelphia.
 ## 🚀 About Me
 Full-stack web developer using a background in amateur graphic design to focus on front-end development.
 Born and raised in Orlando, FL, I've recently graduated from UCF's Coding Bootcamp course, and I'm more than prepared to assist
